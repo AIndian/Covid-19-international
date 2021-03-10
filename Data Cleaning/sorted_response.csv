@@ -87,3 +87,44 @@ France,RegionalStayHomeOrderPartial,10/17/2020,10/28/2020
 France,ClosHigh,10/27/2020,01/24/2021
 France,StayHomeOrder,10/28/2020,12/14/2020
 France,NonEssentialShops,10/29/2020,11/27/2020
+United Kingdom,ClosPubAny,03/16/2020,03/30/2020
+United Kingdom,EntertainmentVenues,03/16/2020,07/02/2020
+United Kingdom,RestaurantsCafes,03/16/2020,07/02/2020
+United Kingdom,StayHomeGen,03/16/2020,03/23/2020
+United Kingdom,StayHomeRiskG,03/16/2020,07/05/2020
+United Kingdom,GymsSportsCentres,03/20/2020,05/12/2020
+United Kingdom,ClosDaycare,03/23/2020,05/31/2020
+United Kingdom,ClosPrim,03/23/2020,05/31/2020
+United Kingdom,ClosSec,03/23/2020,06/14/2020
+United Kingdom,NonEssentialShops,03/23/2020,05/09/2020
+United Kingdom,HotelsOtherAccommodation,03/24/2020,07/02/2020
+United Kingdom,PlaceOfWorship,03/24/2020,03/30/2020
+United Kingdom,PrivateGatheringRestrictions,03/24/2020,07/03/2020
+United Kingdom,StayHomeOrder,03/24/2020,05/09/2020
+United Kingdom,NonEssentialShopsPartial,05/10/2020,06/12/2020
+United Kingdom,StayHomeOrderPartial,05/10/2020,07/04/2020
+United Kingdom,GymsSportsCentresPartial,05/13/2020,07/09/2020
+United Kingdom,MassGather50,05/28/2020,12/01/2020
+United Kingdom,OutdoorOver50,05/28/2020,09/13/2020
+United Kingdom,ClosDaycarePartial,06/01/2020,09/01/2020
+United Kingdom,ClosPrimPartial,06/01/2020,09/01/2020
+United Kingdom,MasksVoluntaryClosedSpaces,06/09/2020,07/26/2020
+United Kingdom,ClosSecPartial,06/15/2020,09/01/2020
+United Kingdom,EntertainmentVenuesPartial,07/03/2020,08/07/2020
+United Kingdom,IndoorOver50,07/04/2020,09/13/2020
+United Kingdom,StayHomeRiskGPartial,07/06/2020,08/01/2020
+United Kingdom,BanOnAllEvents,09/14/2020,12/01/2020
+United Kingdom,RestaurantsCafesPartial,09/24/2020,11/04/2020
+United Kingdom,RegionalStayHomeOrder,10/23/2020,11/08/2020
+United Kingdom,EntertainmentVenues,11/05/2020,12/01/2020
+United Kingdom,GymsSportsCentres,11/05/2020,12/01/2020
+United Kingdom,HotelsOtherAccommodationPartial,11/05/2020,12/01/2020
+United Kingdom,NonEssentialShops,11/05/2020,12/01/2020
+United Kingdom,RestaurantsCafes,11/05/2020,12/01/2020
+United Kingdom,StayHomeOrder,11/05/2020,12/01/2020
+United Kingdom,StayHomeRiskG,11/05/2020,12/01/2020
+United Kingdom,EntertainmentVenuesPartial,12/02/2020,01/04/2021
+United Kingdom,GymsSportsCentresPartial,12/02/2020,01/04/2021
+United Kingdom,IndoorOver1000,12/02/2020,01/04/2021
+United Kingdom,OutdoorOver1000,12/02/2020,01/04/2021
+United Kingdom,RestaurantsCafesPartial,12/02/2020,01/04/2021
